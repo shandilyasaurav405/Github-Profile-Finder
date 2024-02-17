@@ -6,4 +6,4 @@ GitHub Profile Finder is a web application that allows you to search for GitHub 
 
 
 
- #Link: https://git-prof-finder.netlify.app
+ Live: https://git-prof-finder.netlify.app
