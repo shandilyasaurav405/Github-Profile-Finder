@@ -30,7 +30,7 @@ cd github-profile-finder
 ## Usage
 
     - Enter the GitHub username you want to search for in the search bar.
-    - Click the "Search" button or press "Enter" to fetch the user's profile data.
+    - Click the "Search" button  to fetch the user's profile data.
     - The user's profile information will be displayed below the search bar.
 
 # Technologies Used
